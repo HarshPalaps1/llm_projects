@@ -1,0 +1,39 @@
+## MCQ 1
+Question: What is the duration of the IIT Madras BS in Data Science and Applications exam?
+A) 1 hour
+B) 2 hours
+C) 3 hours
+D) 4 hours
+Correct Answer: B) 2 hours
+
+## MCQ 2
+Question: What is the reporting time for the exam at the test centre?
+A) 12:00 P.M. IST
+B) 01:00 P.M. IST
+C) 02:00 P.M. IST
+D) 03:00 P.M. IST
+Correct Answer: B) 01:00 P.M. IST
+
+## MCQ 3
+Question: What type of attire are candidates expected to wear to the exam?
+A) Casual wear
+B) Professional attire
+C) Sports wear
+D) Traditional wear
+Correct Answer: B) Professional attire
+
+## MCQ 4
+Question: What is the consequence of answering subjects not eligible for the candidate?
+A) The answers will be considered for evaluation
+B) The answers will be counted towards the final score
+C) The answers will not be considered or counted
+D) The candidate will be disqualified
+Correct Answer: C) The answers will not be considered or counted
+
+## MCQ 5
+Question: What is the last step a candidate must take after completing the exam?
+A) Log out of the system
+B) Press the SUBMIT button on the computer
+C) Return the hall ticket to the invigilator
+D) Leave the exam hall
+Correct Answer: B) Press the SUBMIT button on the computer
