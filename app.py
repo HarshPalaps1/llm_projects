@@ -156,10 +156,10 @@ def generate():
     return "Error processing file."
 
 
-@flask_app.route('/download/<filename>')
-def download(filename):
-    path = os.path.join(flask_app.config['RESULTS_FOLDER'], filename)
-    return send_file(path, as_attachment=True)
+# @flask_app.route('/download/<filename>')
+# def download(filename):
+#     path = os.path.join(flask_app.config['RESULTS_FOLDER'], filename)
+#     return send_file(path, as_attachment=True)
 
 # ----------------------------
 # ✅ ASGI APP FOR UVICORN
